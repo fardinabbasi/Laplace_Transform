@@ -16,5 +16,9 @@ $$I_L = \frac{{128I_s - 128I_L}}{{s^2}} - \frac{{32I_L}}{s}$$
 The **block diagram** below illustrates the system response when a step input is applied as the input current.
 
 <img src="/readme_images/block.jpg">
-<h2> Part 2: Mechanical System </h2>
-<h3> Simulation of a Spring-Mass-Damper System Using the Laplace Transform  </h3>
+
+## Part 2: Mechanical System
+Simulation of the following Spring-Mass-Damper System Using the Laplace Transform.
+
+<img src="/readme_images/damper.jpg">
+
