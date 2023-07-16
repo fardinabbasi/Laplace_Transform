@@ -33,3 +33,15 @@ The relationship between the input force $(F)$ and the output distance from the 
 The minimum value for parameter $B$, which ensures that the transfer function's poles are real, is 2.
 
 $\Delta = B^2 - 4 \rightarrow \beta = B_{\text{min}} = 2$
+
+The block diagram below illustrates the system response when a step input is applied as the force.
+
+<img src="/readme_images/block2.jpg">
+
+Furthermore, the simulation result with different values for $B$ obtained from **Simulink** is provided below.
+
+| $B = \beta =2$ | $B = 0$ |
+| --- | --- |
+| <img src="/readme_images/r1.jpg"> | <img src="/readme_images/r2.jpg"> |
+| $B = 1 < \beta$ | $B = 4 > \beta$  |
+| <img src="/readme_images/r3.jpg"> | <img src="/readme_images/r4.jpg"> |
