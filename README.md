@@ -46,5 +46,5 @@ Furthermore, the simulation result with different values for $B$ obtained from *
 | $B = 1 < \beta (Complex Poles)$ | $B = 4 > \beta$  |
 | <img src="https://github.com/fardinabbasi/Laplace_Transform/blob/main/readme_images/r3.jpg"> | <img src="https://github.com/fardinabbasi/Laplace_Transform/blob/main/readme_images/r4.jpg"> |
 
-1. $B = \beta =2$: After applying a force, the system stabilizes over time.
-2. 
+1. $B = \beta =2$: After applying the force, the system stabilizes over time.
+2. $B = 0$: The poles being purely imaginary result in a non-oscillatory response.
