@@ -40,6 +40,7 @@ The block diagram below illustrates the system response when a step input is app
 
 Furthermore, the simulation result with different values for $B$ obtained from **Simulink** is provided below.
 
+
 | $B = \beta =2$ | $B = 0$ |
 | --- | --- |
 | <img src="/readme_images/r1.jpg"> | <img src="/readme_images/r2.jpg"> |
