@@ -17,8 +17,19 @@ The **block diagram** below illustrates the system response when a step input is
 
 <img src="/readme_images/block.jpg">
 
+Furthermore, the simulation result obtained from **Simulink** is provided below.
+
+<img src="/readme_images/s1.jpg">
+
 ## Part 2: Mechanical System
 Simulation of the following Spring-Mass-Damper System Using the Laplace Transform.
 
 <img src="/readme_images/damper.jpg">
 
+The relationship between the input force $(F)$ and the output distance from the wall $(X)$ can be derived using the **Laplace transform** by following the procedure outlined below.
+
+<img src="/readme_images/force.jpg">
+
+The minimum value for parameter $B$, which ensures that the transfer function's poles are real, is 2.
+
+$\Delta = B^2 - 4 \rightarrow \beta = B_{\text{min}} = 2$
