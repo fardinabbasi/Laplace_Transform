@@ -40,9 +40,11 @@ The block diagram below illustrates the system response when a step input is app
 
 Furthermore, the simulation result with different values for $B$ obtained from **Simulink** is provided below.
 
-
-| $B = \beta =2$ | $B = 0$ |
+| $B = \beta =2$ | $B = 0 (Complex Poles)$ |
 | --- | --- |
-| <img src="/readme_images/r1.jpg"> | <img src="/readme_images/r2.jpg"> |
-| $B = 1 < \beta$ | $B = 4 > \beta$  |
-| <img src="/readme_images/r3.jpg"> | <img src="/readme_images/r4.jpg"> |
+| <img src="https://github.com/fardinabbasi/Laplace_Transform/blob/main/readme_images/r1.jpg"> | <img src="https://github.com/fardinabbasi/Laplace_Transform/blob/main/readme_images/r2.jpg"> |
+| $B = 1 < \beta (Complex Poles)$ | $B = 4 > \beta$  |
+| <img src="https://github.com/fardinabbasi/Laplace_Transform/blob/main/readme_images/r3.jpg"> | <img src="https://github.com/fardinabbasi/Laplace_Transform/blob/main/readme_images/r4.jpg"> |
+
+1. $B = \beta =2$: After applying a force, the system stabilizes over time.
+2. 
